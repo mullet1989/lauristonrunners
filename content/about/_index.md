@@ -11,3 +11,5 @@ The day-to-day functions (administration, catering, cleaning, gardening and prop
 New members are very welcome. Members can bring guests who are expected to apply for membership if they wish to make regular use of the facilities. Lauriston Runners Club will be a second-claim club for those who take part in competition for their first-claim club.
 
 The club hosts an annual garden party on the first Saturday in June for members and their guests.
+
+[Download rules](/docs/rules.pdf)

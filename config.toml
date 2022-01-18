@@ -54,3 +54,9 @@ theme = "ananke"
   # pre = "<i class='fa fa-road'></i>"
   url = '/contact/'
   weight = -100
+[[menu.main]]
+  name = 'Fixtures'
+  # post = "<span class='alert'>New!</span>"
+  # pre = "<i class='fa fa-road'></i>"
+  url = '/fixtures/'
+  weight = -100

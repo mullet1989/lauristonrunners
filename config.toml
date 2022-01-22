@@ -20,6 +20,11 @@ theme = "ananke"
 
 [menu]
 [[menu.main]]
+  name = 'Home'
+  # pre = "<i class='fa fa-heart'></i>"
+  url = '/'
+  weight = -110
+[[menu.main]]
   name = 'News'
   # pre = "<i class='fa fa-heart'></i>"
   url = '/posts/'

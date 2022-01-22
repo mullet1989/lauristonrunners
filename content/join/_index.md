@@ -6,6 +6,6 @@ text_color: "black"
 
 Prospective members should first visit Lauriston Cottage either as a guest of an existing member or by arranging a time to meet the Hon.Secretary secretary@lauristonrunners.club at the Cottage.
 
-Any subsequent application for membership shall be made on the form below, proposed and seconded by two members. Please leave the completed form in an envelope pinned to the Noticeboard at the cottage addressed to the Hon.Secretary or scan it and send by email to d.beard179@btinternet.com, copying in the Treasurer treasurer@lauristonrunners.club
+Any subsequent application for membership shall be made on the form below, proposed and seconded by two members. Please leave the completed form in an envelope pinned to the Noticeboard at the cottage addressed to the Hon.Secretary or scan it and send by email to treasurer@lauristonrunners.club, copying in the Treasurer treasurer@lauristonrunners.club
 
 [Download joining form](/docs/join.pdf)

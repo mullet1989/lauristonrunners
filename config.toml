@@ -1,4 +1,4 @@
-baseURL = 'http://lauristonrunners.club/'
+baseURL = 'https://lauristonrunners.club/'
 languageCode = 'en-us'
 title = 'Lauriston Runners'
 theme = "ananke"

@@ -1,6 +1,6 @@
 ---
-Title: "Fixtures"
-description: "Upcoming races"
+Title: "Fixtures / Results"
+description: "Upcoming races and past results"
 text_color: "black"
 ---
 

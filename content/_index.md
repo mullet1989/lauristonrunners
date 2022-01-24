@@ -1,7 +1,7 @@
 ---
 title: "Lauriston Runners Club"
 featured_image: '/img/main.jpg'
-description: "Welcome to Lauriston Runners Club, a gem on the edge of Wimbledon Common"
+description: "Welcome to Lauriston Cottage, a gem on the edge of Wimbledon Common"
 text_color: "black"
 ---
 

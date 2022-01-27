@@ -2,7 +2,7 @@
 title: "We have a website now!"
 date: 2022-01-16T20:18:16-05:00
 draft: false
-featured_image: "/img/dave_clarke_nationalxc_1983_v2.png"
+featured_image: "/img/dave_clarke_nationalxc_1983_v2.jpg"
 ---
 
 The Club - with grateful thanks to Ben Toomer and Matt Sharp - now has a website! 

@@ -42,6 +42,7 @@ theme = "ananke"
   # pre = "<i class='fa fa-road'></i>"
   url = '/about/'
   weight = -100
+  featured_image = "/img/sunday_pack_run_cropped.jpg"
 [[menu.main]]
   name = 'Join'
   # post = "<span class='alert'>New!</span>"

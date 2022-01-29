@@ -1,6 +1,7 @@
 ---
 Title: "About"
 description: "Where you can find more information about the club"
+featured_image: "/img/sunday_pack_run_cropped.jpg"
 text_color: "black"
 ---
 

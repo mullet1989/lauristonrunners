@@ -30,9 +30,9 @@
 </div>
 {{ else }}
 <header>
-    <div class="pb3-m {{ .Site.Params.background_color_class | default "bg-black" }} ph5-l ph3">
+    <div class="pb2-m {{ .Site.Params.background_color_class | default "bg-black" }} ph5-l ph3">
     {{ partial "site-navigation.html" . }}
-    <div class="pb4 pb3-l">
+    <div class="pb3 pb3-l">
         <h1 class="f2 f-subheadline fw2 white-90 mb0 lh-title">
             {{ .Title | default .Site.Title }}
         </h1>

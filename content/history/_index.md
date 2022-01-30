@@ -4,6 +4,8 @@ description: "Our history"
 text_color: "black"
 ---
 
+![image](https://www.lauristonrunners.club/img/arthur1.jpg)
+
 Lauriston Runners Club was founded by Arthur Whitehead on 30th October 1966, and the premises were given to the Club, vested in four Trustees, in 1978.
 
 Arthur had inherited the four cottages which were part of the premises of Lauriston House from his father, Sir Arthur Fell, who for many years was MP for Great Yarmouth.  Lauriston House was famous having been the home of William Wilberforce in the late 1700's.  When it was demolished in 1957 over twenty houses were built on its land.  But the cottages predate the house, having been in existence since before 1684.

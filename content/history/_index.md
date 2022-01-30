@@ -4,7 +4,7 @@ description: "Our history"
 text_color: "black"
 ---
 
-<img src="https://www.lauristonrunners.club/img/arthur1.jpg" class="mw-100" style="max-height:300px">
+![image](https://www.lauristonrunners.club/img/arthur1.jpg)
 
 Lauriston Runners Club was founded by Arthur Whitehead on 30th October 1966, and the premises were given to the Club, vested in four Trustees, in 1978.
 

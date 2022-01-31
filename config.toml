@@ -5,7 +5,7 @@ theme = "ananke"
 
 [params]
   custom_css = ["css/_font-awesome.css"]
-  text_color = ""
+  text_color = "yellow"
   author = ""
   favicon = ""
   site_logo = ""

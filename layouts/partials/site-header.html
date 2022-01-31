@@ -5,7 +5,7 @@
 <header class="cover bg-top">
     <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }} ph5-l ph3">
     {{ partial "site-navigation.html" .}}
-    <div class="pb3 pb2-l">
+    <div class="pb2 pb2-l">
         <h1 class="f2 f-subheadline fw2 yellow mb0 lh-title">
             {{ .Title | default .Site.Title }}
         </h1>
@@ -30,9 +30,9 @@
 </div>
 {{ else }}
 <header>
-    <div class="pb2-m {{ .Site.Params.background_color_class | default "bg-black" }} ph5-l ph3">
+    <div class="pb2-m {{ .Site.Params.background_color_class | default "bg-black" }} ph2-l ph2">
     {{ partial "site-navigation.html" . }}
-    <div class="pb3 pb2-l">
+    <div class="pb2 pb2-l">
         <h1 class="f2 f-subheadline fw2 yellow mb0 lh-title">
             {{ .Title | default .Site.Title }}
         </h1>

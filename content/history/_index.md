@@ -4,7 +4,7 @@ description: "Our history"
 text_color: "black"
 ---
 
-![image](https://www.lauristonrunners.club/img/arthur1_resize.jpg)
+![image](https://www.lauristonrunners.club/img/arthur1.jpg)
 
 ### Arthur Whitehead – the Club’s founder
 

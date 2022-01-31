@@ -29,40 +29,41 @@ theme = "ananke"
   name = 'News'
   # pre = "<i class='fa fa-heart'></i>"
   url = '/posts/'
-  weight = -110
-[[menu.main]]
-  name = 'History'
-  # post = "<span class='alert'>New!</span>"
-  # pre = "<i class='fa fa-road'></i>"
-  url = '/history/'
-  weight = -100
+  weight = -111
 [[menu.main]]
   name = 'About'
   # post = "<span class='alert'>New!</span>"
   # pre = "<i class='fa fa-road'></i>"
   url = '/about/'
-  weight = -100
+  weight = -112
+[[menu.main]]
+  name = 'History'
+  # post = "<span class='alert'>New!</span>"
+  # pre = "<i class='fa fa-road'></i>"
+  url = '/history/'
+  weight = -113
 [[menu.main]]
   name = 'Join'
   # post = "<span class='alert'>New!</span>"
   # pre = "<i class='fa fa-road'></i>"
   url = '/join/'
-  weight = -100
+  weight = -114
 [[menu.main]]
   name = 'Kit'
   # post = "<span class='alert'>New!</span>"
   # pre = "<i class='fa fa-road'></i>"
   url = '/kit/'
-  weight = -100
-[[menu.main]]
-  name = 'Contact'
-  # post = "<span class='alert'>New!</span>"
-  # pre = "<i class='fa fa-road'></i>"
-  url = '/contact/'
-  weight = -100
+  weight = -115
 [[menu.main]]
   name = 'Fixtures'
   # post = "<span class='alert'>New!</span>"
   # pre = "<i class='fa fa-road'></i>"
   url = '/fixtures/'
-  weight = -100
+  weight = -116
+[[menu.main]]
+  name = 'Contact'
+  # post = "<span class='alert'>New!</span>"
+  # pre = "<i class='fa fa-road'></i>"
+  url = '/contact/'
+  weight = -117
+

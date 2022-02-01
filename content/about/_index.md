@@ -1,9 +1,11 @@
 ---
 Title: "About"
 description: "Where you can find more information about the club"
-featured_image: "/img/sunday_pack_run_cropped.jpg"
+# featured_image: "/img/sunday_pack_run_cropped.jpg"
 text_color: "black"
 ---
+
+![image](https://www.lauristonrunners.club/img/sunday_pack_run_cropped.jpg)
 
 Lauriston Runners Club operates from Lauriston Cottage, 6B Southside Common, London SW19 4TG, which has changing and other facilities. The Club’s object is the encouragement of running. The cottage is on the edge of Wimbledon Common and available for members to use at any time.
 

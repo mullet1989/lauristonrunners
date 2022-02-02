@@ -2,7 +2,7 @@
 Title: "Kit"
 description: "Where to get club kit"
 text_color: "black"
-featured_image: "/img/kit_group_pic1.jpg"
+featured_image: "https://www.lauristonrunners.club/img/kit_group_pic1.jpg"
 ---
 <!---
 ![image](https://www.lauristonrunners.club/img/kit_group_pic1.jpg)

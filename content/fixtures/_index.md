@@ -2,6 +2,7 @@
 Title: "Fixtures / Results"
 description: "Upcoming races and past results"
 text_color: "black"
+featured_image = "https://www.lauristonrunners.club/img/paarlauf_rules.jpg"
 ---
 
 30 Minutes Paarlauf – 25 December 2021

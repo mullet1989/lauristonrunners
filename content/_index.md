@@ -1,6 +1,6 @@
 ---
 title: "Lauriston Runners Club"
-featured_image: "/img/sunday_pack_run_cropped.jpg"
+featured_image: "/img/sunday_pack_run_crop2.jpg"
 description: "Welcome to Lauriston Cottage, a hidden gem on the edge of Wimbledon Common"
 text_color: "black"
 ---

@@ -2,10 +2,11 @@
 Title: "History"
 description: "Our history"
 text_color: "black"
+featured_image: "https://www.lauristonrunners.club/img/arthur1.jpg"
 ---
-
+<!---
 ![image](https://www.lauristonrunners.club/img/arthur1.jpg)
-
+-->
 ### Arthur Whitehead – the Club’s founder
 
 Lauriston Runners Club was formed on 30th October 1966, founded by Arthur Whitehead who gave the premises to the Club, vested in four Trustees, in 1978.  He gave the Club the same motto as his school in Sedbergh: "Dura Vira Nutrix", meaning the Stern Nurse of Man.  The Stag's head is part of his family's crest; Arthur wrote that it was so very appropriate for a Club whose members run so much in Richmond Park.

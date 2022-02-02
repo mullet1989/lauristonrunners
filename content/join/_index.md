@@ -2,7 +2,7 @@
 Title: "Join"
 description: "How to join the club"
 text_color: "black"
-featured_image = "https://www.lauristonrunners.club/img/join.jpg"
+featured_image : "https://www.lauristonrunners.club/img/join.jpg"
 ---
 
 Prospective members should first visit Lauriston Cottage either as a guest of an existing member or by arranging a time to meet the Hon.Secretary secretary@lauristonrunners.club at the Cottage.

@@ -2,7 +2,7 @@
 Title: "History"
 description: "Our history"
 text_color: "black"
-featured_image: "https://www.lauristonrunners.club/img/arthur1.jpg"
+featured_image: "https://www.lauristonrunners.club/img/arthur_group.jpg"
 ---
 <!---
 ![image](https://www.lauristonrunners.club/img/arthur1.jpg)

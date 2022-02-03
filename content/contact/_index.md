@@ -2,7 +2,7 @@
 Title: "Contact"
 description: "Contact us"
 text_color: "black"
-featured_image: "https://www.lauristonrunners.club/img/contact_crop.jpg
+featured_image: "https://www.lauristonrunners.club/img/contact_crop.jpg"
 ---
 
 Please email secretary@lauristonrunners.club if you have any questions about the Club. 

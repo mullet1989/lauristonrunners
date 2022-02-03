@@ -7,7 +7,7 @@ text_color: "black"
 <!---
 ![image](https://www.lauristonrunners.club/img/sunday_pack_run_cropped.jpg)
 -->
-Lauriston Runners Club operates from Lauriston Cottage, 6B Southside Common, London SW19 4TG, which has changing and other facilities. The Club’s object is the encouragement of running. The cottage is on the edge of Wimbledon Common and available for members to use at any time.
+Lauriston Runners Club operates from Lauriston Cottage, 6B Southside Common, London SW19 4TG, which has separate changing rooms, showers and toilets for men and women and a weights room. The Club’s object is the encouragement of running. The cottage is on the edge of Wimbledon Common and each member is provided with a key to be able to use the facilities at any time. It is a superb location to head out for runs on the Common, Richmond Park and more - and along the banks of the Thames anywhere from Putney to Hampton Court.
 
 The day-to-day functions (administration, catering, cleaning, gardening and property maintenance) are carried out by the Club’s committee and members. The Club is financed by members’ subscriptions and donations.
 

@@ -24,7 +24,11 @@ text_color: "black"
 <img src='https://www.lauristonrunners.club/img/changing_rooms.jpg' class="mw-100" style="max-height: 300px"/>
 -->
 
-{{< src="https://www.lauristonrunners.club/img/door1.jpg" >}}
+<p float="left">
+  <img src='https://www.lauristonrunners.club/img/door1.jpg' max-height="300px"/>
+  <img src='https://www.lauristonrunners.club/img/entrance.jpg' max-height="300px"/> 
+  <img src='https://www.lauristonrunners.club/img/changing_rooms.jpg' max-height="300px"/>
+</p>
 
 
 Lauriston Runners Club is a training centre for men and women runners and retired runners who wish to walk for exercise.  

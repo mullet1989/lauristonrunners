@@ -5,7 +5,7 @@ featured_image: "/img/changing_rooms.jpg"
 text_color: "black"
 ---
 
-![](https://www.lauristonrunners.club/img/door1_resize.jpg) ![](https://www.lauristonrunners.club/img/entrance_resize.jpg) ![](https://www.lauristonrunners.club/img/changing_rooms_resize.jpg)
+![](https://www.lauristonrunners.club/img/kitchen1_resize.jpg) ![](https://www.lauristonrunners.club/img/showers_resize.jpg) ![](https://www.lauristonrunners.club/img/weights_room2_resize.jpg)
 
 ### More information about the Club
 

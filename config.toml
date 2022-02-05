@@ -2,7 +2,7 @@ baseURL = 'https://www.lauristonrunners.club/'
 languageCode = 'en-us'
 title = 'Lauriston Runners'
 theme = "ananke"
-disqusShortname = "webmaster"
+disqusShortname = "lauriston"
 
 [params]
   custom_css = ["css/_font-awesome.css"]

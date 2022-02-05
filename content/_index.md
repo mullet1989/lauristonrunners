@@ -6,25 +6,6 @@ text_color: "black"
 ---
 
 ![](https://www.lauristonrunners.club/img/door1_resize.jpg) ![](https://www.lauristonrunners.club/img/entrance_resize.jpg) ![](https://www.lauristonrunners.club/img/changing_rooms_resize.jpg)
-<!---
-<div class="flex justify-between ph5-l ph3">
-    <div class="pv3 tc ph1 flex-auto">
-        <img src="https://www.lauristonrunners.club/img/door1.jpg" class="mw-100" style="max-height: 300px"/>
-    </div>
-    <div class="pv3 tc ph1 flex-auto" style="flex-grow: 1">
-        <img src="https://www.lauristonrunners.club/img/entrance.jpg" class="mw-100" style="max-height: 300px" />
-    </div>
-    <div class="pv3 tc ph1 flex-auto">
-        <img src="https://www.lauristonrunners.club/img/changing_rooms.jpg" class="mw-100" style="max-height: 300px"/>
-    </div>
-</div>
--->
-<!---
-<img src='https://www.lauristonrunners.club/img/door1.jpg' class="mw-100" style="max-height: 300px"/>
-
-<img src='https://www.lauristonrunners.club/img/entrance.jpg' class="mw-100" style="max-height: 300px"/> 
-<img src='https://www.lauristonrunners.club/img/changing_rooms.jpg' class="mw-100" style="max-height: 300px"/>
--->
 
 Lauriston Runners Club is a training centre for men and women runners and retired runners who wish to walk for exercise.  
 It is located at 6b Southside Wimbledon Common, London, SW19 4TG with the entrance on Lauriston Road.  

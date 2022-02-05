@@ -1,6 +1,6 @@
 ---
 Title: "History"
-description: "Our history"
+# description: "Our history"
 text_color: "black"
 featured_image: "https://www.lauristonrunners.club/img/arthur_group_crop2.jpg"
 ---

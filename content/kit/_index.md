@@ -8,7 +8,7 @@ featured_image: "https://www.lauristonrunners.club/img/kit_group_pic1.jpg"
 ![image](https://www.lauristonrunners.club/img/kit_group_pic1.jpg)
 -->
 
-# Where to get club kit
+### Where to get club kit
 
 In recent years, several items of New Balance club branded kit were manufactured for members (vests, t-shirts, long-sleeves and leggings). These orders have now been completed. After significant backlogs with the manufacturer, and the impacts of Brexit and Covid, future orders will only be possible in bulk - once 30 items of clothing have been reserved. 
 

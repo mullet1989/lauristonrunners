@@ -6,7 +6,6 @@ text_color: "black"
 ---
 
 ![](https://www.lauristonrunners.club/img/door1_resize.jpg) ![](https://www.lauristonrunners.club/img/entrance_resize.jpg) ![](https://www.lauristonrunners.club/img/changing_rooms_resize.jpg)
-
 <!---
 <div class="flex justify-between ph5-l ph3">
     <div class="pv3 tc ph1 flex-auto">

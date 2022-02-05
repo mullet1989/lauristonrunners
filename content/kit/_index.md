@@ -8,7 +8,7 @@ featured_image: "https://www.lauristonrunners.club/img/kit_group_pic1.jpg"
 ![image](https://www.lauristonrunners.club/img/kit_group_pic1.jpg)
 -->
 
-![](https://www.lauristonrunners.club/img/kit_vest_resize.jpg) ![](https://www.lauristonrunners.club/img/kit_short_sleeve_resize.jpg)
+![](https://www.lauristonrunners.club/img/kit_vest_resize.jpg) | ![](https://www.lauristonrunners.club/img/kit_short_sleeve_resize.jpg)
 
 ### Where to get club kit
 

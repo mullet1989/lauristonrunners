@@ -17,7 +17,7 @@ text_color: "black"
     </div>
 </div>
 -->
-<img src='https://www.lauristonrunners.club/img/door1.jpg' style='width:auto;' type='image/jpg' height='400'/> <img src='https://www.lauristonrunners.club/img/entrance.jpg' style='width:auto;' type='image/jpg' height='400'/> <img src='https://www.lauristonrunners.club/img/changing_rooms.jpg' style='width:auto;' type='image/jpg' height='400'/>
+<img src='https://www.lauristonrunners.club/img/door1.jpg' class="mw-100" style="max-height: 300px"/> <img src='https://www.lauristonrunners.club/img/entrance.jpg' class="mw-100" style="max-height: 300px"/> <img src='https://www.lauristonrunners.club/img/changing_rooms.jpg' class="mw-100" style="max-height: 300px"/>
 
 
 Lauriston Runners Club is a training centre for men and women runners and retired runners who wish to walk for exercise.  

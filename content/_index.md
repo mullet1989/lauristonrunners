@@ -5,7 +5,7 @@ description: "Welcome to Lauriston Cottage, a hidden gem on the edge of Wimbledo
 text_color: "black"
 ---
 
-<img src='https://www.lauristonrunners.club/img/door1.jpg' />
+![](https://www.lauristonrunners.club/img/door1_resize.jpg) ![](https://www.lauristonrunners.club/img/entrance_resize.jpg) ![](https://www.lauristonrunners.club/img/changing_rooms_resize.jpg)
 
 <!---
 <div class="flex justify-between ph5-l ph3">

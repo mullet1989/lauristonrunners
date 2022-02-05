@@ -5,7 +5,7 @@ text_color: "black"
 featured_image : "https://www.lauristonrunners.club/img/join_crop2.jpg"
 ---
 
-# How to join the club
+### How to join the club
 
 Prospective members should first visit Lauriston Cottage either as a guest of an existing member or by arranging a time to meet the Hon.Secretary secretary@lauristonrunners.club at the Cottage.
 

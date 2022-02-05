@@ -1,6 +1,6 @@
 ---
 Title: "Contact"
-description: "Contact us"
+# description: "Contact us"
 text_color: "black"
 featured_image: "https://www.lauristonrunners.club/img/contact_crop.jpg"
 ---

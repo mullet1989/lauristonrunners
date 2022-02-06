@@ -1,6 +1,7 @@
 <div class="shortcode shortcode--google-maps">
 	<iframe
 		src='https://www.google.com/maps/embed/v1/place?key={{ with .Get "key" }}{{ . }}{{ else }}{{ .Site.Params.googleMapsAPIKey }}{{end}}&center={{ .Get "center" }}{{ with .Get "zoom" }}&zoom={{ . }}{{end}}{{ with .Get "maptype" }}&maptype={{ . }}{{end}}{{ with .Get "language" }}&language={{ . }}{{end}}{{ with .Get "region" }}&region={{ . }}{{end}}'
+		&q=6b+Southside+Wimbledon+Common,London,SW194TG
 		frameborder="0"
 		scrolling='{{ with .Get "scrolling" }}{{.}}{{else}}no{{end}}'
 		width='{{ with .Get "width" }}{{.}}{{else}}100%{{end}}'

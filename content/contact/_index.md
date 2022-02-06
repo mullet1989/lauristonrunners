@@ -9,6 +9,6 @@ Please email secretary@lauristonrunners.club if you have any questions about the
 
 For any matters relating to the website, please email webmaster@lauristonrunners.club.
 
-# Map
+# Find the Club
 
 {{< google-maps-location height="300" location="6b Southside Wimbledon Common, London, SW19 4TG" >}}

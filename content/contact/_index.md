@@ -11,6 +11,4 @@ For any matters relating to the website, please email webmaster@lauristonrunners
 
 # Map
 
-{{< google-maps-location height="300" location="Nuernberg Germany" >}}
-
-{{< google-maps-direction origin="Nuernberg Bavaria" destination="Frankfurt, Hessen">}}
+{{< google-maps-location height="300" location="6b Southside Wimbledon Common, London, SW19 4TG" >}}

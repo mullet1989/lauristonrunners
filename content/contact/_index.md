@@ -14,7 +14,3 @@ For any matters relating to the website, please email webmaster@lauristonrunners
 {{< google-maps-location height="300" location="6b Southside Wimbledon Common, London, SW19 4TG" >}}
 
 {{< google-maps-place height="300" location="6b Southside Wimbledon Common, London, SW19 4TG" >}}
-
-{{< google-maps-view height="300" location="6b Southside Wimbledon Common, London, SW19 4TG" >}}
-
-{{< google-maps-search height="300" location="6b Southside Wimbledon Common, London, SW19 4TG" >}}

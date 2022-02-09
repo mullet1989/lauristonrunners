@@ -8,7 +8,7 @@ featured_image: "https://www.lauristonrunners.club/img/arthur_group_crop2.jpg"
 ![image](https://www.lauristonrunners.club/img/arthur1.jpg)
 -->
 ### Arthur Whitehead – the Club’s founder
-
+{{< figure src="/img/arthur1.jpg" title="Arthur Whitehead" class="mw10" >}}
 Lauriston Runners Club was formed on 30th October 1966, founded by Arthur Whitehead who gave the premises to the Club, vested in four Trustees, in 1978.  He gave the Club the same motto as his school in Sedbergh: "Dura Vira Nutrix", meaning the Stern Nurse of Man.  The Stag's head is part of his family's crest; Arthur wrote that it was so very appropriate for a Club whose members run so much in Richmond Park.
 
 Arthur had lived in the first cottage next to the Common since Spring 1945 after he was invalided out of the Army towards the end of the Second World War. It was one of four cottages that had been stables or garage for the main house (Lauriston House) where he lived before the War and which was owned by his stepfather Sir Arthur Fell who for many years was MP for Great Yarmouth.  The cottages antedated Lauriston House which was built in the last decades of the seventeenth century and was famous for having been the home of William Wilberforce in the late 1700s.  When Arthur's stepmother died in 1957, he bought the four cottages from the developers and over twenty houses were built on the land of the house and gardens.

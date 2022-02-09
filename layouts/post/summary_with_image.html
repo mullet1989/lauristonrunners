@@ -1,29 +1,37 @@
-{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+{{ $first_image_tag := findRE "<img .*?>" .Content }}
+{{ if $first_image_tag }}
+{{ .Scratch.Set "first_image_url" (replaceRE "^.*src=[\"'](.*?)[\"'].*" "$1" (index $first_image_tag 0)) }}
+{{ end }}
+{{ $featured_image := default (.Scratch.Get "first_image_url") .Params.featured_image }}
+{{ $leftside := (.Scratch.Get "leftside") }}
 <article class="bb b--black-10">
-  <div class="db pv4 ph0-l no-underline dark-gray">
+  <a class="db ph3 ph0-l no-underline dark-gray dim" href="{{ default .URL .Params.finalURL }}">
     <div class="flex flex-column flex-row-ns">
-      {{ if $featured_image }}
+      {{ if and $featured_image $leftside }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
         {{ $featured_image := (trim $featured_image "/") | absURL }}
-        <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
-          <a href="{{.RelPermalink}}" class="db grow">
-            <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
-          </a>
+        <div class="pr3-ns mb4 mb3-ns w-30-ns center v-mid">
+          <img src="{{ $featured_image }}" class="zz-scaled-img fr" alt="image from {{ .Title }}">
         </div>
       {{ end }}
-      <div class="blah w-100{{ if $featured_image }} w-60-ns pl3-ns{{ end }}">
-        <h1 class="f3 fw1 mt0 lh-title">
-          <a href="{{.RelPermalink}}" class="color-inherit dim link">
-            {{ .Title }}
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          {{ .Summary }}
+      <div class="w-100{{ if .Params.featured_image }} w-70-ns {{ if $leftside }}pl3-ns{{ else }}pr3-ns{{ end }}{{ end }}">
+        <h1 class="f3 fw1 athelas mt0 lh-title{{ if (not $leftside) }} tr{{ end }}">{{ .Title }}</h1>
+        <div class="f6 mv2 dib tracked{{ if (not $leftside) }} tr-ns{{ end }}" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{ .Date.Format "January 2, 2006" }}
         </div>
-          <a href="{{.RelPermalink}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{ $.Param "read_more_copy" | default (i18n "readMore") }}</a>
+        <div class="f6 f5-l lh-copy nested-copy-line-height{{ if (not $leftside) }} tr{{ end }}">
+          {{ default .Summary .Params.summary }}
+        </div>
         {{/* TODO: add author
         <p class="f6 lh-copy mv0">By {{ .Author }}</p> */}}
       </div>
+      {{ if and $featured_image (not $leftside) }}
+          {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+        {{ $featured_image := (trim $featured_image "/") | absURL }}
+        <div class="pr3-ns mb4 mb3-ns w-30-ns center">
+          <img src="{{ $featured_image }}" class="zz-scaled-img fl" alt="image from {{ .Title }}">
+        </div>
+      {{ end }}
     </div>
-  </div>
+  </a>
 </article>

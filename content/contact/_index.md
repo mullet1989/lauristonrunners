@@ -11,6 +11,8 @@ For any matters relating to the website, please email webmaster@lauristonrunners
 
 ### Newsletter Subscription
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeb2q_AcrbkRYgVzBlSZUOVXWohv-qOMdAR4CC_6k42PhJwQw/viewform?embedded=true" width="640" height="574" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 {{< rawhtml >}}
 <!--
   <link rel="stylesheet" href="/css/form.css">

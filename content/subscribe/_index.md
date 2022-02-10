@@ -5,7 +5,6 @@ text_color: "black"
 featured_image: "https://www.lauristonrunners.club/img/contact_crop.jpg"
 ---
 
-### Keep up to date with the latest news and events
 {{< rawhtml >}}
 
   <div id="ff-compose"></div>

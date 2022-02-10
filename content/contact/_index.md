@@ -12,8 +12,9 @@ For any matters relating to the website, please email webmaster@lauristonrunners
 ### Newsletter Subscription
 
 {{< rawhtml >}}
+<!--
   <link rel="stylesheet" href="/css/form.css">
-  
+-->  
   <script type="text/javascript">var submitted=false;</script>
   
   <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 

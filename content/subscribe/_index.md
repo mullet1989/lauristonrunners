@@ -2,7 +2,7 @@
 Title: "Subscribe"
 # description: "Keep up to date with the latest news and events"
 text_color: "black"
-featured_image: "https://www.lauristonrunners.club/img/surrey_champs_group.jpg"
+featured_image: "https://www.lauristonrunners.club/img/surrey_champs_group_crop.jpg"
 ---
 
 {{< rawhtml >}}

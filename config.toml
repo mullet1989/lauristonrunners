@@ -64,14 +64,14 @@ disqusShortname = "lauriston"
   url = '/fixtures/'
   weight = -104
 [[menu.main]]
-  name = 'Contact'
-  # post = "<span class='alert'>New!</span>"
-  # pre = "<i class='fa fa-road'></i>"
-  url = '/contact/'
-  weight = -103
-[[menu.main]]
   name = 'Subscribe'
   # post = "<span class='alert'>New!</span>"
   # pre = "<i class='fa fa-road'></i>"
   url = '/subscribe/'
+  weight = -103
+[[menu.main]]
+  name = 'Contact'
+  # post = "<span class='alert'>New!</span>"
+  # pre = "<i class='fa fa-road'></i>"
+  url = '/contact/'
   weight = -102

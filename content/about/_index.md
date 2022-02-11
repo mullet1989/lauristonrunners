@@ -9,11 +9,13 @@ text_color: "black"
 
 ### More information about the Club
 
-Lauriston Runners Club operates from Lauriston Cottage, 6B Southside Common, London SW19 4TG, which has separate changing rooms, showers and toilets for men and women and a weights room. The Club’s object is the encouragement of running. The cottage is on the edge of Wimbledon Common and each member is provided with a key to be able to use the facilities at any time. It is a superb location to head out for runs on the Common, Richmond Park and more - and along the banks of the Thames anywhere from Putney to Hampton Court.
+Lauriston Runners Club operates from Lauriston Cottage, 6B Southside Common, London SW19 4TG, with the entrance on Lauriston Road.  It is about a mile from Wimbledon Station and only a 400-yard walk from the nearest stop in Wimbledon Village for buses from Putney and Wimbledon town.
 
-The day-to-day functions (administration, catering, cleaning, gardening and property maintenance) are carried out by the Club’s committee and members. The Club is financed by members’ subscriptions and donations.
+There are separate changing rooms, showers and toilet facilities for men and women, a weights room, a library of books on running and a small kitchen where members can make tea and have a biscuit.
 
-New members are very welcome. Members can bring guests who are expected to apply for membership if they wish to make regular use of the facilities. Lauriston Runners Club will be a second-claim club for those who take part in competition for their first-claim club.
+The day-to-day functions (administration, catering, cleaning, gardening and property maintenance) are carried out by the Club’s committee and members.  The Club is financed by members’ subscriptions and donations.
+
+New members are very welcome.  Members can bring guests who are expected to apply for membership if they wish to make regular use of the facilities.  Lauriston Runners Club will be a second-claim club for those who take part in competition for their first-claim club.
 
 The Club hosts an annual garden party on the first Saturday in June for members and their guests.
 

@@ -7,10 +7,8 @@ text_color: "black"
 
 ![](https://www.lauristonrunners.club/img/door1_resize.jpg) ![](https://www.lauristonrunners.club/img/entrance_resize.jpg) ![](https://www.lauristonrunners.club/img/changing_rooms_resize.jpg)
 
-Lauriston Runners Club is a training centre for men and women runners and retired runners who wish to walk for exercise.  
-It is located at 6b Southside Wimbledon Common, London, SW19 4TG with the entrance on Lauriston Road.  
-This is about a 400 yd walk from Wimbledon Village with bus stops from Putney and Wimbledon town.  
+Lauriston Runners Club operates from Lauriston Cottage, 6B Southside Common, London SW19 4TG.  The Club’s object is the encouragement of running and the Cottage is a training centre for men and women.
 
-There are separate changing rooms, showers and toilet facilities for men and women, a small kitchen where runners can make tea and have a biscuit, a weights room and a library of books on running. The venue offers unparalleled scope for running across Wimbledon Common, Richmond Park and along the Thames tow path. The facilities are open twenty four hours a day, seven days a week, and members can have their own key and use when they like.
+It is on the edge of Wimbledon Common and offers unparalleled scope for running across the Common, Richmond Park and more, including along the Thames towpath.  The facilities are open twenty-four hours a day, seven days a week, and members can have their own key to be able to use the Cottage whenever they like.
 
-
+More information about the Club can be found [here](https://www.lauristonrunners.club/about/).

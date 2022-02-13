@@ -5,7 +5,7 @@ theme = "ananke"
 disqusShortname = "lauriston"
 
 [params]
-  custom_css = ["css/_font-awesome.css"]
+  custom_css = ["css/_font-awesome.css", "css/styles.css"]
   text_color = ""
   author = ""
   favicon = ""

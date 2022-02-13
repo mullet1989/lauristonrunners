@@ -1,0 +1,10 @@
+img[src$='#floatleft'] {
+    float: left;
+    margin-right: 10px;
+}
+
+img[src$='#floatright'] {
+    float: right;
+    margin-left: 10px;
+}
+

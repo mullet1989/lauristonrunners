@@ -5,9 +5,20 @@ text_color: "black"
 featured_image: "https://www.lauristonrunners.club/img/contact_crop.jpg"
 ---
 
-Please email secretary@lauristonrunners.club if you have any questions about the Club. 
+### Contacts
 
-For any matters relating to the website, please email webmaster@lauristonrunners.club.
+
+<u>Club Secretary</u>
+
+[David Beard](secretary@lauristonrunners.club)
+
+Treasurer
+
+[Simon Ingall](treasurer@lauristonrunners.club)
+
+Website Administrator
+
+[Webmaster](webmaster@lauristonrunners.club)
 
 ### Find the Club
 

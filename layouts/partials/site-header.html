@@ -3,7 +3,7 @@
 {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
 {{ $featured_image := (trim $featured_image "/") | absURL }}
 <header class="cover bg-center" style="background-image: url('{{ $featured_image }}'); ">
-    <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }} ph5-l ph1">
+    <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }} ph5-l ph5">
     {{ partial "site-navigation.html" .}}
     <div class="tc-l pb5 pb5-l">
         <h1 class="f2 f-subheadline fw2 yellow mb0 lh-title">
@@ -32,7 +32,7 @@
 -->
 {{ else }}
 <header>
-    <div class="pb5-m {{ .Site.Params.background_color_class | default "bg-black" }} ph5-l ph1">
+    <div class="pb5-m {{ .Site.Params.background_color_class | default "bg-black" }} ph5-l ph5">
     {{ partial "site-navigation.html" . }}
     <div class="tc-l pb5 pb5-l">
         <h1 class="f2 f-subheadline fw2 yellow mb0 lh-title">

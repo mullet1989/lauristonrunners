@@ -18,4 +18,8 @@ Website Admin: {{< rawhtml >}}<a href = "mailto: webmaster@lauristonrunners.club
 
 ### Find the Club
 
+**Nearest train/tube:** Wimbledon
+
+**Buses:** 93 (Wimbledon Village or War Memorial stop) and 200 (Ridgway Telephone Exchange Stop)
+
 {{< google-maps-location height="500" location="6b Southside Wimbledon Common, London, SW19 4TG" >}}

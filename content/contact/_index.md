@@ -8,7 +8,7 @@ featured_image: "https://www.lauristonrunners.club/img/contact_crop.jpg"
 ### Contacts
 
 
-Secretary: [David Beard](<secretary@lauristonrunners.club>)
+Secretary: [David Beard]('secretary@lauristonrunners.club')
 
 Treasurer: [Simon Ingall](<treasurer@lauristonrunners.club>)
 

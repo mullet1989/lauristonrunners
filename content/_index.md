@@ -5,7 +5,7 @@ description: "Welcome to Lauriston Cottage, a hidden gem on the edge of Wimbledo
 text_color: "black"
 ---
 
-![](https://www.lauristonrunners.club/img/outside_road_resize.jpg#centre) ![](https://www.lauristonrunners.club/img/entrance_resize.jpg#centre) <!---![](https://www.lauristonrunners.club/img/changing_rooms_resize.jpg)-->
+![](https://www.lauristonrunners.club/img/outside_road_resize.jpg#centre) ![](https://www.lauristonrunners.club/img/entrance_resize.jpg) <!---![](https://www.lauristonrunners.club/img/changing_rooms_resize.jpg)-->
 
 Lauriston Runners Club operates from Lauriston Cottage, 6B Southside Common, London SW19 4TG.  The Club’s object is the encouragement of running and the Cottage is a training centre for men and women.
 

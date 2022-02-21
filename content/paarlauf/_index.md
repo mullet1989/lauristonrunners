@@ -1,5 +1,5 @@
 ---
-Title: "Fixtures / Results"
+Title: "Results"
 # description: "Upcoming races and past results"
 text_color: "black"
 featured_image : "https://www.lauristonrunners.club/img/paarlauf_rules_crop.jpg"

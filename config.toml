@@ -58,10 +58,10 @@ disqusShortname = "lauriston"
   url = '/kit/'
   weight = -105
 [[menu.main]]
-  name = 'Fixtures'
+  name = 'Paarlauf'
   # post = "<span class='alert'>New!</span>"
   # pre = "<i class='fa fa-road'></i>"
-  url = '/fixtures/'
+  url = '/paarlauf/'
   weight = -104
 [[menu.main]]
   name = 'Subscribe'

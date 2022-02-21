@@ -12,6 +12,8 @@ Secretary: [David Beard](<secretary@lauristonrunners.club>)
 
 Treasurer: [Simon Ingall](<treasurer@lauristonrunners.club>)
 
+Kit: [Richard McDowell](<kit@lauristonrunners.club>)
+
 Website Admin: [Webmaster](<webmaster@lauristonrunners.club>)
 
 ### Find the Club

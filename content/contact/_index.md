@@ -8,11 +8,11 @@ featured_image: "https://www.lauristonrunners.club/img/contact_crop.jpg"
 ### Contacts
 
 
-Secretary: {{< rawhtml >}}<a href = "mailto: secretary@lauristonrunners.club">David Beard</a>{{< /rawhtml >}}
+Hon.Secretary: {{< rawhtml >}}<a href = "mailto: secretary@lauristonrunners.club">David Beard</a>{{< /rawhtml >}}
 
-Treasurer: {{< rawhtml >}}<a href = "mailto: treasurer@lauristonrunners.club">Simon Ingall</a>{{< /rawhtml >}}
+Hon.Treasurer: {{< rawhtml >}}<a href = "mailto: treasurer@lauristonrunners.club">Simon Ingall</a>{{< /rawhtml >}}
 
-Club Kit: {{< rawhtml >}}<a href = "mailto: kit@lauristonrunners.club">Richard McDowell</a>{{< /rawhtml >}}
+Kit Supervisor: {{< rawhtml >}}<a href = "mailto: kit@lauristonrunners.club">Richard McDowell</a>{{< /rawhtml >}}
 
 Website Admin: {{< rawhtml >}}<a href = "mailto: webmaster@lauristonrunners.club">Website Admin</a>{{< /rawhtml >}}
 

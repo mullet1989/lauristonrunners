@@ -47,6 +47,7 @@ disqusShortname = "lauriston"
   url = '/kit/'
   weight = -105
 [[menu.main]]
+  identifier = 'paarlauf'
   name = 'Paarlauf'
   url = '/paarlauf/'
   weight = -104
@@ -61,6 +62,6 @@ disqusShortname = "lauriston"
 [[menu.main]]
   identifier = '2021'
   name = '2021'
-  url = '/paarlauf/2021/'
-  weight = -101
-  parent = "Paarlauf"
+  url = '/tags/2021/'
+  weight = 1
+  parent = "paarlauf"

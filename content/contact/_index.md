@@ -14,7 +14,7 @@ Hon.Treasurer: {{< rawhtml >}}<a href = "mailto: treasurer@lauristonrunners.club
 
 Kit Supervisor: {{< rawhtml >}}<a href = "mailto: kit@lauristonrunners.club">Richard McDowell</a>{{< /rawhtml >}}
 
-Website Admin: {{< rawhtml >}}<a href = "mailto: webmaster@lauristonrunners.club">Website Admin</a>{{< /rawhtml >}}
+Website Admin: {{< rawhtml >}}<a href = "mailto: webmaster@lauristonrunners.club">Webmaster</a>{{< /rawhtml >}}
 
 ### Find the Club
 

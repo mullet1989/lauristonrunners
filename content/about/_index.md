@@ -27,9 +27,12 @@ New members are very welcome. Members can bring guests who are expected to apply
 regular use of the facilities. Lauriston Runners Club will be a second-claim club for those who take part in competition
 for their first-claim club.
 
+
 The Club hosts an annual garden party on the first Saturday in June for members and their guests.
 
 [Download rules](/docs/rules.pdf)
 
 The Club has a close link with Hercules Wimbledon Athletic Club; Lauriston Cottage is HW’s headquarters for Cross
 Country and Road Running.
+
+![](https://www.lauristonrunners.club/img/combine_images.jpg#centre) 

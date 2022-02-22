@@ -9,7 +9,7 @@ text_color: "black"
 
 ### More information about the Club
 
-![](https://www.lauristonrunners.club/img/kitchen1_resize2.jpg#floatleft)
+![](https://www.lauristonrunners.club/img/kitchen1_resize.jpg#floatleft)
 
 Lauriston  Runners Club operates from Lauriston Cottage, 6B Southside Common, London SW19 4TG, with the entrance on Lauriston Road.
 It is about a mile from Wimbledon Station and only a 400-yard walk from the nearest stop in Wimbledon Village for buses
@@ -21,7 +21,7 @@ on running and a small kitchen where members can make tea and have a biscuit.
 The day-to-day functions (administration, catering, cleaning, gardening and property maintenance) are carried out by the
 Club’s committee and members. The Club is financed by members’ subscriptions and donations.
 
-![](https://www.lauristonrunners.club/img/showers_resize2.jpg#floatright)
+![](https://www.lauristonrunners.club/img/showers_resize.jpg#floatright)
 
 New members are very welcome. Members can bring guests who are expected to apply for membership if they wish to make
 regular use of the facilities. Lauriston Runners Club will be a second-claim club for those who take part in competition

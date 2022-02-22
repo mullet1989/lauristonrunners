@@ -5,7 +5,8 @@ theme = "ananke"
 disqusShortname = "lauriston"
 
 [params]
-  custom_css = ["css/_font-awesome.css", "css/styles.css", "css/menu.css"]
+  custom_css = ["css/_font-awesome.css", "css/styles.css"]
+  # , "css/menu.css"]
   text_color = ""
   author = ""
   favicon = ""
@@ -59,9 +60,9 @@ disqusShortname = "lauriston"
   name = 'Contact'
   url = '/contact/'
   weight = -102
-[[menu.main]]
-  parent = "paarlauf"
-  identifier = '2021'
-  name = '2021'
-  url = '/paarlauf/2021/'
-  weight = 1
+# [[menu.main]]
+#  parent = "paarlauf"
+#  identifier = '2021'
+#  name = '2021'
+#  url = '/paarlauf/2021/'
+#  weight = 1

@@ -35,4 +35,4 @@ The Club hosts an annual garden party on the first Saturday in June for members 
 The Club has a close link with Hercules Wimbledon Athletic Club; Lauriston Cottage is HW’s headquarters for Cross
 Country and Road Running.
 
-![](https://www.lauristonrunners.club/img/combine_images.jpg#centre) 
+![](https://www.lauristonrunners.club/img/combine_images2.jpg#centre) 

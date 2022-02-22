@@ -60,8 +60,8 @@ disqusShortname = "lauriston"
   url = '/contact/'
   weight = -102
 [[menu.main]]
+  parent = "paarlauf"
   identifier = '2021'
   name = '2021'
-  url = '/tags/2021/'
+  url = '/paarlauf/2021/'
   weight = 1
-  parent = "paarlauf"

@@ -9,6 +9,6 @@ text_color: "black"
 
 Lauriston Runners Club operates from Lauriston Cottage, 6B Southside Common, London SW19 4TG.  The Club’s object is the encouragement of running and the Cottage is a training centre for men and women.
 
-It is on the edge of Wimbledon Common and offers unparalleled scope for running across the Common, Richmond Park and more, including along the Thames towpath.  The facilities are open twenty-four hours a day, seven days a week, and members can have their own key to be able to use the Cottage whenever they like.
+It is on the edge of Wimbledon Common and offers unparalleled scope for running across the Common, Richmond Park and more, including along the Thames towpath.  The facilities are open seven days a week, and members can have their own key to access the Cottage.
 
 More information about the Club can be found [here](https://www.lauristonrunners.club/about/).

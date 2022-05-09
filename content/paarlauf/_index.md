@@ -17,7 +17,7 @@ If you have memories of the Paarlauf that you would like to share, please contac
 
 These are believed to be the top 10 distances since 1966 when the drawing of “A” and “B” runners began (and excluding the “overtime” 1967 event).
 
-Pairing                                           Distance              Year
+&emsp;Pairing&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Distance&emsp;&emsp;Year
 
 1.&emsp;&nbsp;P.Barratt (E&S) & M.Riley (Ranelagh)&emsp;&emsp;&emsp;6 miles 1254 yards&emsp;1982
 
@@ -37,7 +37,7 @@ Pairing                                           Distance              Year
 
 9.&emsp;&nbsp;D.Clarke (HW) & R.Lovegrove (HW)&emsp;&emsp;&emsp;6 miles 1023 yards&emsp;1979
 
-10.&emsp;&nbsp;J.Bicourt (Belgrave H) & J.Phelan (HW)&emsp;&emsp;6 miles 1007 yards&emsp;1971
+10.&emsp;J.Bicourt (Belgrave H) & J.Phelan (HW)&emsp;&emsp;6 miles 1007 yards&emsp;1971
 
 ### Historic Results
 

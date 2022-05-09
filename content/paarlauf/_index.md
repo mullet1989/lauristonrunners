@@ -1,37 +1,38 @@
 ---
-Title: "Results"
-# description: "Upcoming races and past results"
+Title: "Paarlauf"
+# description: "Paarlauf history and results"
 text_color: "black"
 featured_image : "https://www.lauristonrunners.club/img/paarlauf_rules_crop.jpg"
 ---
 
-30 Minutes Paarlauf – 25 December 2021
+The Paarlauf (paired run) became popular in Germany shortly after the Second World War.  It was at the suggestion of Charlie Smart, then serving with the Control Commission in Germany, that this annual Christmas Day event was first run in 1954.  It was put on for runners who trained regularly from Lauriston Cottage, not as a serious race, but by way of friendly competition.
 
-RESULT
+Over the following years the 30-minute Paarlauf became more and more popular, with runners travelling long distances to take part.  There was a feeling within the Club that the event had become too competitive and that the original intention of the race had been forgotten.  The Club therefore decided in 1966 that, in future, teams should consist of pairs comprising an “A” runner and a “B” runner, now decided upon by the organisers shortly before the 11a.m. start time.
 
-1.           CHARLIE EASTAUGH (HW) & KNUT HEGVOLD (HW)                   5m  1266y
+For the first time since 1954 the 2020 event had to be cancelled owing to the Covid restrictions in force at the time.
 
-2.           FELIX ALLEN (HW) & DANIEL CLARKE (HW)                       5m  1066y*
+If you have memories of the Paarlauf that you would like to share, please contact webmaster@lauristonrunners.club
 
-3.           KIERAN WHITE (HW) & TOM CHEETHAM (HW)                       5m   472y
+These are believed to be the top 10 distances since 1966 when the drawing of “A” and “B” runners began (and excluding the “overtime” 1967 event).
 
-4.           MATT SHARP (HW) & VALDIS PAUZERS (HHH)                      4m  1682y
+Pairing                                       Distance           Year
 
-5.           CLAIRE GRIMA (HW) & ROWENA HORNSHAW (HW)                    4m  1590y
+1. P.Barratt (E&S) & M.Riley (Ranelagh)          6 miles 1254 yards 1982
 
-6.           ADAM FENTON (HW) & ANNE HEGVOLD (HW)                        4m  1523y
+2. P.Clarke (HW) & T.Woods (Ranelagh)            6 miles 1153 yards 1982
 
-7.           DAVID GRIMA (HW) & SARAH ALLEN (HHH)                        4m  1425y
+3. D.Clarke (HW) & R.Figg (G&G)                  6 miles 1131 yards 1987
 
-8.           JAMES RUNNICLES (HW) & DAVE CLARKE (HW)                     4m  1365y
+4. D.Clarke (HW) & R.Addison (Belgrave H)        6 miles 1124 yards 1982
 
-9.           FRAN CLARKE (HW) & RICHARD EVANS (HW)                       4m  1336y
+5. D.Holt (HW) & C.Harvey (SLH)                  6 miles 1080 yards 1968
 
-10.          PETER CLARKE (HW) & TONY AUSTIN (HW)                        4m   965y
+6. G.Taylor (Cambridge H) & W.Cheeseman (SLH)    6 miles 1067 yards 1966
 
-11.          LISA THOMAS (HW) & GEORGINA EASTAUGH (HW)                   4m   873y
+7. W.Curtin (Belgrave H) & M.Gowan (HHH)         6 miles 1040 yards 1971
 
-12.          RUSSELL JONES (BELGRAVE) & IAN STRONG (HHH)                 4m   810y
+8. J.Bicourt (Belgrave H) & S.Rowland (Ranelagh) 6 miles 1027 yards 1977
 
- 
-*Estimated distance (number not placed on ground)
+9. D.Clarke (HW) & R.Lovegrove (HW)              6 miles 1023 yards 1979
+
+10. J.Bicourt (Belgrave H) & J.Phelan (HW)        6 miles 1007 yards 1971

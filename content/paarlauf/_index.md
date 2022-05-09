@@ -39,4 +39,4 @@ Pairing                                           Distance              Year
 
 ### Results
 
-[2021](http://www.https://www.lauristonrunners.club/img/paarlauf/LRC 2021.jpeg)
+[2021](https://www.lauristonrunners.club/img/paarlauf/LRC 2021.jpeg)

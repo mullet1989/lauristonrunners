@@ -13,6 +13,8 @@ For the first time since 1954 the 2020 event had to be cancelled owing to the Co
 
 If you have memories of the Paarlauf that you would like to share, please contact webmaster@lauristonrunners.club
 
+### Top 10
+
 These are believed to be the top 10 distances since 1966 when the drawing of “A” and “B” runners began (and excluding the “overtime” 1967 event).
 
 Pairing                                           Distance              Year
@@ -37,6 +39,6 @@ Pairing                                           Distance              Year
 
 10. J.Bicourt (Belgrave H) & J.Phelan (HW)        6 miles 1007 yards    1971
 
-### Results
+### Historic Results
 
 [2021](https://www.lauristonrunners.club/img/paarlauf/LRC 2021.jpeg)

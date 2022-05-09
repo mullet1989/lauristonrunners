@@ -19,9 +19,9 @@ These are believed to be the top 10 distances since 1966 when the drawing of “
 
 Pairing                                           Distance              Year
 
-1.  P.Barratt (E&S) & M.Riley (Ranelagh)          6 miles 1254 yards    1982
+1.  P.Barratt (E&S) & M.Riley (Ranelagh)          6 miles 1254 yards    1982
 
-2.  P.Clarke (HW) & T.Woods (Ranelagh)            6 miles 1153 yards    1982
+2.  P.Clarke (HW) & T.Woods (Ranelagh)            6 miles 1153 yards    1982
 
 3.  D.Clarke (HW) & R.Figg (G&G)                  6 miles 1131 yards    1987
 

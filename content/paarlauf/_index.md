@@ -19,25 +19,25 @@ These are believed to be the top 10 distances since 1966 when the drawing of “
 
 Pairing                                           Distance              Year
 
-1.&emsp;P.Barratt (E&S) & M.Riley (Ranelagh)&emsp;&emsp;&emsp;6 miles 1254 yards&emsp;1982
+1.&emsp;&nbsp;P.Barratt (E&S) & M.Riley (Ranelagh)&emsp;&emsp;&emsp;6 miles 1254 yards&emsp;1982
 
-2.&emsp;P.Clarke (HW) & T.Woods (Ranelagh)&emsp;&emsp;&emsp;6 miles 1153 yards&emsp;1982
+2.&emsp;&nbsp;P.Clarke (HW) & T.Woods (Ranelagh)&emsp;&emsp;&emsp;6 miles 1153 yards&emsp;1982
 
-3.&emsp;D.Clarke (HW) & R.Figg (G&G)&emsp;&emsp;&emsp;6 miles 1131 yards&emsp;1987
+3.&emsp;&nbsp;D.Clarke (HW) & R.Figg (G&G)&emsp;&emsp;&emsp;6 miles 1131 yards&emsp;1987
 
-4.&emsp;D.Clarke (HW) & R.Addison (Belgrave H)&emsp;&emsp;&emsp;6 miles 1124 yards&emsp;1982
+4.&emsp;&nbsp;D.Clarke (HW) & R.Addison (Belgrave H)&emsp;&emsp;&emsp;6 miles 1124 yards&emsp;1982
 
-5.&emsp;D.Holt (HW) & C.Harvey (SLH)&emsp;&emsp;&emsp;6 miles 1080 yards&emsp;1968
+5.&emsp;&nbsp;D.Holt (HW) & C.Harvey (SLH)&emsp;&emsp;&emsp;6 miles 1080 yards&emsp;1968
 
-6.&emsp;G.Taylor (Cambridge H) & W.Cheeseman (SLH)&emsp;&emsp;&emsp;6 miles 1067 yards&emsp;1966
+6.&emsp;&nbsp;G.Taylor (Cambridge H) & W.Cheeseman (SLH)&emsp;&emsp;&emsp;6 miles 1067 yards&emsp;1966
 
-7.&emsp;W.Curtin (Belgrave H) & M.Gowan (HHH)&emsp;&emsp;&emsp;6 miles 1040 yards&emsp;1971
+7.&emsp;&nbsp;W.Curtin (Belgrave H) & M.Gowan (HHH)&emsp;&emsp;&emsp;6 miles 1040 yards&emsp;1971
 
-8.&emsp;J.Bicourt (Belgrave H) & S.Rowland (Ranelagh)&emsp;6 miles 1027 yards&emsp;1977
+8.&emsp;&nbsp;J.Bicourt (Belgrave H) & S.Rowland (Ranelagh)&emsp;6 miles 1027 yards&emsp;1977
 
-9.&emsp;D.Clarke (HW) & R.Lovegrove (HW)&emsp;&emsp;&emsp;6 miles 1023 yards&emsp;1979
+9.&emsp;&nbsp;D.Clarke (HW) & R.Lovegrove (HW)&emsp;&emsp;&emsp;6 miles 1023 yards&emsp;1979
 
-10.&emsp;J.Bicourt (Belgrave H) & J.Phelan (HW)&emsp;&emsp;6 miles 1007 yards&emsp;1971
+10.&emsp;&nbsp;J.Bicourt (Belgrave H) & J.Phelan (HW)&emsp;&emsp;6 miles 1007 yards&emsp;1971
 
 ### Historic Results
 

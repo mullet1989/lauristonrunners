@@ -22,13 +22,3 @@ In the late 1970s he converted the last of the four cottages into a large changi
 Over the years, a number of World Record holders, including Gordon Pirie, Dave Bedford and Steve Ovett, were welcomed to the cottage and ran with Arthur across the Common.
 
 Arthur died in 2003 but it cannot be overemphasised how much he inspired so many younger runners and thanks to his munificence contributed to the enrichment of their running experiences and their lives.  Thanks to him so many can enjoy the Lauriston facilities.
-
-### The Paarlauf
-
-The Paarlauf (paired run) became popular in Germany shortly after the Second World War. It was at the suggestion of Charlie Smart, then serving with the Control Commission in Germany, that this annual Christmas Day event was first run in 1954. It was put on for runners who trained regularly from Lauriston Cottage, not as a serious race, but by way of friendly competition.
-
-Over the following years the 30-minute Paarlauf became more and more popular, with runners travelling long distances to take part. There was a feeling within the Club that the event had become too competitive and that the original intention of the race had been forgotten. The Club therefore decided in 1966 that, in future, teams should consist of pairs comprising an “A” runner and a “B” runner, now decided upon by the organisers shortly before the 11a.m. start time.
-
-For the first time since 1954 the 2020 event had to be cancelled owing to the Covid restrictions in force at the time.
-
-If you have memories of the Paarlauf that you would like to share, please contact webmaster@lauristonrunners.club

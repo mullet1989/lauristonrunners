@@ -36,3 +36,7 @@ Pairing                                       Distance           Year
 9. D.Clarke (HW) & R.Lovegrove (HW)              6 miles 1023 yards 1979
 
 10. J.Bicourt (Belgrave H) & J.Phelan (HW)        6 miles 1007 yards 1971
+
+### Results
+
+[2021](http://www.https://www.lauristonrunners.club/img/paarlauf/LRC 2021.jpeg)

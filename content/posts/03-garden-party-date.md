@@ -9,4 +9,4 @@ The annual Lauriston garden party for members and their guests will take place o
 We realise the Jubilee concert is also taking place that evening but could not find a convenient alternative (and unfortunately the Palace could not be persuaded to change their date!)
 
  
-It would be helpful for catering purposes if you could let David Beard know (at secretary@lauristonrunners.club) by 28th May if you are able to come.
+It would be helpful for catering purposes if you could let David Beard know {{< rawhtml >}}<a href = "mailto: secretary@lauristonrunners.club">Hon.Secretary</a>{{< /rawhtml >}} by 28th May if you are able to come.

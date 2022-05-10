@@ -17,17 +17,17 @@ If you have memories of the Paarlauf that you would like to share, please contac
 
 These are believed to be the top 10 distances since 1966 when the drawing of “A” and “B” runners began (and excluding the “overtime” 1967 event).
 
-Pairing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year
-1.&nbsp;&nbsp;P.Barratt&nbsp;(E&S)&nbsp;&&nbsp;M.Riley&nbsp;(Ranelagh)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;miles&nbsp;1254&nbsp;yards&nbsp;&nbsp;&nbsp;&nbsp;1982
-2.&nbsp;&nbsp;P.Clarke&nbsp;(HW)&nbsp;&&nbsp;T.Woods&nbsp;(Ranelagh)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;miles&nbsp;1153&nbsp;yards&nbsp;&nbsp;&nbsp;&nbsp;1982
-3.&nbsp;&nbsp;D.Clarke&nbsp;(HW)&nbsp;&&nbsp;R.Figg&nbsp;(G&G)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;miles&nbsp;1131&nbsp;yards&nbsp;&nbsp;&nbsp;&nbsp;1987
-4.&nbsp;&nbsp;D.Clarke&nbsp;(HW)&nbsp;&&nbsp;R.Addison&nbsp;(Belgrave&nbsp;H)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;miles&nbsp;1124&nbsp;yards&nbsp;&nbsp;&nbsp;&nbsp;1982
-5.&nbsp;&nbsp;D.Holt&nbsp;(HW)&nbsp;&&nbsp;C.Harvey&nbsp;(SLH)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;miles&nbsp;1080&nbsp;yards&nbsp;&nbsp;&nbsp;&nbsp;1968
-6.&nbsp;&nbsp;G.Taylor&nbsp;(Cambridge&nbsp;H)&nbsp;&&nbsp;W.Cheeseman&nbsp;(SLH)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;miles&nbsp;1067&nbsp;yards&nbsp;&nbsp;&nbsp;&nbsp;1966
-7.&nbsp;&nbsp;W.Curtin&nbsp;(Belgrave&nbsp;H)&nbsp;&&nbsp;M.Gowan&nbsp;(HHH)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;miles&nbsp;1040&nbsp;yards&nbsp;&nbsp;&nbsp;&nbsp;1971
-8.&nbsp;&nbsp;J.Bicourt&nbsp;(Belgrave&nbsp;H)&nbsp;&&nbsp;S.Rowland&nbsp;(Ranelagh)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;miles&nbsp;1027&nbsp;yards&nbsp;&nbsp;&nbsp;&nbsp;1977
-9.&nbsp;&nbsp;D.Clarke&nbsp;(HW)&nbsp;&&nbsp;R.Lovegrove&nbsp;(HW)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;miles&nbsp;1023&nbsp;yards&nbsp;&nbsp;&nbsp;&nbsp;1979
-10.&nbsp;J.Bicourt&nbsp;(Belgrave&nbsp;H)&nbsp;&&nbsp;J.Phelan&nbsp;(HW)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;miles&nbsp;1007&nbsp;yards&nbsp;&nbsp;&nbsp;&nbsp;1971
+Pairing                                               Distance              Year
+1.  P.Barratt (E&S) & M.Riley (Ranelagh)              6 miles 1254 yards    1982
+2.  P.Clarke (HW) & T.Woods (Ranelagh)                6 miles 1153 yards    1982
+3.  D.Clarke (HW) & R.Figg (G&G)                      6 miles 1131 yards    1987
+4.  D.Clarke (HW) & R.Addison (Belgrave H)            6 miles 1124 yards    1982
+5.  D.Holt (HW) & C.Harvey (SLH)                      6 miles 1080 yards    1968
+6.  G.Taylor (Cambridge H) & W.Cheeseman (SLH)        6 miles 1067 yards    1966
+7.  W.Curtin (Belgrave H) & M.Gowan (HHH)             6 miles 1040 yards    1971
+8.  J.Bicourt (Belgrave H) & S.Rowland (Ranelagh)     6 miles 1027 yards    1977
+9.  D.Clarke (HW) & R.Lovegrove (HW)                  6 miles 1023 yards    1979
+10. J.Bicourt (Belgrave H) & J.Phelan (HW)            6 miles 1007 yards    1971
 
 ### Historic Results
 

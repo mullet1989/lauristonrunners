@@ -18,16 +18,16 @@ If you have memories of the Paarlauf that you would like to share, please contac
 These are believed to be the top 10 distances since 1966 when the drawing of “A” and “B” runners began (and excluding the “overtime” 1967 event).
 
 Pairing                                               Distance              Year
-1.  P.Barratt (E&S) & M.Riley (Ranelagh)              6 miles 1254 yards    1982
-2.  P.Clarke (HW) & T.Woods (Ranelagh)                6 miles 1153 yards    1982
-3.  D.Clarke (HW) & R.Figg (G&G)                      6 miles 1131 yards    1987
-4.  D.Clarke (HW) & R.Addison (Belgrave H)            6 miles 1124 yards    1982
-5.  D.Holt (HW) & C.Harvey (SLH)                      6 miles 1080 yards    1968
-6.  G.Taylor (Cambridge H) & W.Cheeseman (SLH)        6 miles 1067 yards    1966
-7.  W.Curtin (Belgrave H) & M.Gowan (HHH)             6 miles 1040 yards    1971
-8.  J.Bicourt (Belgrave H) & S.Rowland (Ranelagh)     6 miles 1027 yards    1977
-9.  D.Clarke (HW) & R.Lovegrove (HW)                  6 miles 1023 yards    1979
-10. J.Bicourt (Belgrave H) & J.Phelan (HW)            6 miles 1007 yards    1971
+1.  P.Barratt (E&S) & M.Riley (Ranelagh)&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;6 miles 1254 yards&emsp;1982
+2.  P.Clarke (HW) & T.Woods (Ranelagh)                6 miles 1153 yards&emsp;1982
+3.  D.Clarke (HW) & R.Figg (G&G)                      6 miles 1131 yards&emsp;1987
+4.  D.Clarke (HW) & R.Addison (Belgrave H)            6 miles 1124 yards&emsp;1982
+5.  D.Holt (HW) & C.Harvey (SLH)                      6 miles 1080 yards&emsp;1968
+6.  G.Taylor (Cambridge H) & W.Cheeseman (SLH)        6 miles 1067 yards&emsp;1966
+7.  W.Curtin (Belgrave H) & M.Gowan (HHH)             6 miles 1040 yards&emsp;1971
+8.  J.Bicourt (Belgrave H) & S.Rowland (Ranelagh)&emsp;&nbsp;6 miles 1027 yards&emsp;1977
+9.  D.Clarke (HW) & R.Lovegrove (HW)                  6 miles 1023 yards&emsp;1979
+10. J.Bicourt (Belgrave H) & J.Phelan (HW)            6 miles 1007 yards&emsp;1971
 
 ### Historic Results
 

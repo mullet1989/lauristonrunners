@@ -26,8 +26,8 @@ These are believed to be the top 10 distances since 1966 when the drawing of “
 6.  G.Taylor (Cambridge H) & W.Cheeseman (SLH)&emsp;&emsp;6 miles 1067 yards&emsp;1966
 7.  W.Curtin (Belgrave H) & M.Gowan (HHH)&emsp;&emsp;&emsp;&nbsp;6 miles 1040 yards&emsp;1971
 8.  J.Bicourt (Belgrave H) & S.Rowland (Ranelagh)&emsp;&nbsp;6 miles 1027 yards&emsp;1977
-9.  D.Clarke (HW) & R.Lovegrove (HW)&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;6 miles 1023 yards&emsp;1979
-10. J.Bicourt (Belgrave H) & J.Phelan (HW)&emsp;&emsp;&emsp;6 miles 1007 yards&emsp;1971
+9.  D.Clarke (HW) & R.Lovegrove (HW)&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;6 miles 1023 yards&emsp;1979
+10. J.Bicourt (Belgrave H) & J.Phelan (HW)&emsp;&emsp;&emsp;;&nbsp;&nbsp;&nbsp;6 miles 1007 yards&emsp;1971
 
 ### Historic Results
 

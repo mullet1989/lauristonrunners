@@ -1,5 +1,5 @@
 ---
-Title: "Paarlauf"
+Title: "1 Mile Championships"
 # description: "1 mile championships history and results"
 text_color: "black"
 featured_image : "https://www.lauristonrunners.club/img/1mile-champs/lauriston-1mile-1.jpg"

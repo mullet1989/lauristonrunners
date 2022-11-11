@@ -20,3 +20,5 @@ If you have any information about the missing results or other memories you woul
 tbc
 
 ### Historic Results
+
+[1967](https://www.lauristonrunners.club/results/1mile-champs/1967.jpeg)&emsp;  

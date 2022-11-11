@@ -2,7 +2,7 @@
 Title: "Paarlauf"
 # description: "1 mile championships history and results"
 text_color: "black"
-featured_image : "https://www.lauristonrunners.club/img/paarlauf_rules_crop.jpg"
+featured_image : "https://www.lauristonrunners.club/img/1mile-champs/lauriston-1mile-1.jpg"
 ---
 
 There are no results found for 1970 or 1975 and we assume races were not held in those years.

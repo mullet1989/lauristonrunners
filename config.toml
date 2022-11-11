@@ -54,7 +54,7 @@ theme = "ananke"
   weight = -104
 [[menu.main]]
   identifier = '1mile-champs'
-  name = '1mile Championships'
+  name = '1 mile Champs'
   url = '/1mile-champs/'
   weight = -103
 [[menu.main]]

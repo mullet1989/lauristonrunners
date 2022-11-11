@@ -21,4 +21,4 @@ tbc
 
 ### Historic Results
 
-[1967](https://www.lauristonrunners.club/results/1mile-champs/1967.jpeg)&emsp;  
+[1967](https://www.lauristonrunners.club/results/1mile-champs/1967.jpg)&emsp;  

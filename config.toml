@@ -53,13 +53,18 @@ theme = "ananke"
   url = '/paarlauf/'
   weight = -104
 [[menu.main]]
+  identifier = '1mile-champs'
+  name = '1mile Championships'
+  url = '/1mile-champs/'
+  weight = -103
+[[menu.main]]
   name = 'Subscribe'
   url = '/subscribe/'
-  weight = -103
+  weight = -102
 [[menu.main]]
   name = 'Contact'
   url = '/contact/'
-  weight = -102
+  weight = -101
 # [[menu.main]]
 #  parent = "paarlauf"
 #  identifier = '2021'

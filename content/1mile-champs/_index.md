@@ -17,9 +17,9 @@ If you have any information about the missing results or other memories you woul
 
 ### Top 10
 
-NICK BARTON&emsp;&emsp;&emsp;&emsp;4.07.8&emsp;1968
+NICK BARTON&emsp;&emsp;&emsp;&emsp;&emsp;4.07.8&emsp;1968
 
-JOHN GLADWIN&emsp;&emsp;&emsp;4.09.5&emsp;1980
+JOHN GLADWIN&emsp;&emsp;&emsp;&emsp;4.09.5&emsp;1980
 
 DERECK FERNEE&emsp;&emsp;&emsp;4.10.2&emsp;1968
 

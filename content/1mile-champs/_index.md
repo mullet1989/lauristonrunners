@@ -33,9 +33,9 @@ JOHN BICOURT&emsp;&emsp;&emsp;&emsp;4.12.0&emsp;1972
 
 BOB HOLT&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.12.3&emsp;1968
 
-PETER CLARKE&emsp;&emsp;&emsp;4.12.3&emsp;1982
+PETER CLARKE&emsp;&emsp;&emsp;&emsp;4.12.3&emsp;1982
 
-BILL REILLY&emsp;&emsp;&emsp;&emsp;&emsp;4.12.6&emsp;1972
+BILL REILLY&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.12.6&emsp;1972
 
 ### Historic Results
 

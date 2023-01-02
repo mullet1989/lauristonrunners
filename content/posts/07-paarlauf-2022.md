@@ -2,7 +2,7 @@
 title: "Paarlauf 2022"
 date: 2023-01-02T21:13:16-05:00
 draft: false
-featured_image: "/img/paarlauf_2021.jpg"
+featured_image: "/img/paarlauf_2022.jpg"
 ---
 
 Weather conditions: 10C, dry and no wind.

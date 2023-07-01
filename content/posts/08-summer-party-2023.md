@@ -5,7 +5,7 @@ draft: false
 featured_image: "/img/party/2023/food.jpg"
 ---
 
-Some of the club's members and guests enjoying the 2023 annual party
+Some of the club's members and guests enjoying the 2023 annual party.
 
 ![](https://www.lauristonrunners.club/img/party/2023/image0.jpeg)
 ![](https://www.lauristonrunners.club/img/party/2023/image1.jpeg)

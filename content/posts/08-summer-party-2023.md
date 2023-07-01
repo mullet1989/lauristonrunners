@@ -7,4 +7,4 @@ featured_image: "/img/party/2023/image2.jpeg"
 
 Some of the club's members and guests enjoying the 2023 annual party (pics to be added).
 
-![](https://www.lauristonrunners.club/img/party/2023/image0.jpeg)
+![](https://www.lauristonrunners.club/img/party/2023/image0.jpeg)![](https://www.lauristonrunners.club/img/party/2023/image1.jpeg)![](https://www.lauristonrunners.club/img/party/2023/image2.jpeg)

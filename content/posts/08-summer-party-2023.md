@@ -18,4 +18,4 @@ Some of the club's members and guests enjoying the 2023 annual party (pics to be
 ![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image003.jpg)
 ![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image004.jpg)
 ![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image005.jpg)
-![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image002 (1).jpg)
+![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image001.jpg)

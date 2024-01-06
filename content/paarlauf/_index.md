@@ -31,7 +31,7 @@ These are believed to be the top 10 distances since 1966 when the drawing of “
 
 ### Historic Results
 
-[2021](https://www.lauristonrunners.club/img/paarlauf/LRC-2021.jpeg)&emsp;[2022](https://www.lauristonrunners.club/img/paarlauf/LRC-2022.jpeg)&emsp;  
+[2021](https://www.lauristonrunners.club/img/paarlauf/LRC-2021.jpeg)&emsp;[2022](https://www.lauristonrunners.club/img/paarlauf/LRC-2022.jpeg)&emsp;[2023](https://www.lauristonrunners.club/img/paarlauf/LRC-2023.jpeg)&emsp;   
 
 [2019](https://www.lauristonrunners.club/img/paarlauf/LRC-2019.jpeg)&emsp;[2018](https://www.lauristonrunners.club/img/paarlauf/LRC-2018.jpeg)&emsp;[2017](https://www.lauristonrunners.club/img/paarlauf/LRC-2017.jpeg)&emsp;[2016](https://www.lauristonrunners.club/img/paarlauf/LRC-2016.jpeg)&emsp;[2015](https://www.lauristonrunners.club/img/paarlauf/LRC-2015.jpeg)&emsp;[2014](https://www.lauristonrunners.club/img/paarlauf/LRC-2014.jpeg)&emsp;[2013](https://www.lauristonrunners.club/img/paarlauf/LRC-2013.jpeg)&emsp;[2012](https://www.lauristonrunners.club/img/paarlauf/LRC-2012.jpeg)&emsp;[2011](https://www.lauristonrunners.club/img/paarlauf/LRC-2011.jpeg)&emsp;[2010](https://www.lauristonrunners.club/img/paarlauf/LRC-2010.jpeg)  
 

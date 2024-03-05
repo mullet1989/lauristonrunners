@@ -10,7 +10,7 @@ Weather: Dry, overcast, no wind and 14C
 Thanks to all those who helped out with the organisation of the event and the refreshments afterwards in particular: 
 Dennis Williams, Ian Isherwood, Mike Hanahoe, Chris Taplin, Eric Blackmore, Dave Clarke, Jo Wackett and Hazel Green.
 
-Please find the results on the Paarlauf page.
+Please find the results [here](https://www.lauristonrunners.club/paarlauf/).
 
 ![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_1.jpg)
 ![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_2.jpg)

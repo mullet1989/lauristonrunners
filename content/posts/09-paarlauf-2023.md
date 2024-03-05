@@ -11,3 +11,5 @@ Thanks to all those who helped out with the organisation of the event and the re
 Dennis Williams, Ian Isherwood, Mike Hanahoe, Chris Taplin, Eric Blackmore, Dave Clarke, Jo Wackett and Hazel Green.
 
 Please find the results on the Paarlauf page.
+
+![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_1.jpg)

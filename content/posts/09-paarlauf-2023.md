@@ -2,7 +2,7 @@
 title: "Paarlauf 2023"
 date: 2024-01-02T20:13:16-05:00
 draft: false
-featured_image: "/img/paarlauf/paarlauf-2022.jpg"
+featured_image: "/img/paarlauf/2023/paarlauf-2023_7.jpg"
 ---
 
 Weather: Dry, overcast, no wind and 14C
@@ -18,6 +18,5 @@ Please find the results [here](https://www.lauristonrunners.club/paarlauf/).
 ![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_4.jpg)
 ![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_5.jpg)
 ![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_6.jpg)
-![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_7.jpg)
 ![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_8.jpg)
 ![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_9.jpg)

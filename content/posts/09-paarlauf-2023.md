@@ -13,3 +13,11 @@ Dennis Williams, Ian Isherwood, Mike Hanahoe, Chris Taplin, Eric Blackmore, Dave
 Please find the results on the Paarlauf page.
 
 ![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_1.jpg)
+![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_2.jpg)
+![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_3.jpg)
+![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_4.jpg)
+![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_5.jpg)
+![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_6.jpg)
+![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_7.jpg)
+![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_8.jpg)
+![](https://www.lauristonrunners.club/img/paarlauf/2023/paarlauf-2023_9.jpg)

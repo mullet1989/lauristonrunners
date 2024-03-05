@@ -1,5 +1,5 @@
 ---
-title: "Paarlauf 2022"
+title: "Paarlauf 2023"
 date: 2024-01-02T20:13:16-05:00
 draft: false
 featured_image: "/img/paarlauf/paarlauf-2022.jpg"

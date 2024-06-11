@@ -2,7 +2,7 @@
 title: "Annual summer party 2024"
 date: 2024-06-01T20:13:16-05:00
 draft: false
-featured_image: "/img/party/2023/food.jpg"
+featured_image: "/img/party/2023/IMG-20240608-WA0008.jpg"
 ---
 
 Some of the club's members and guests enjoying the 2024 annual party.

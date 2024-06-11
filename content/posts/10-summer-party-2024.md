@@ -1,0 +1,23 @@
+---
+title: "Annual summer party 2024"
+date: 2024-06-01T20:13:16-05:00
+draft: false
+featured_image: "/img/party/2023/food.jpg"
+---
+
+Some of the club's members and guests enjoying the 2024 annual party.
+
+![](https://www.lauristonrunners.club/img/party/2023/image0.jpeg)
+![](https://www.lauristonrunners.club/img/party/2023/image1.jpeg)
+![](https://www.lauristonrunners.club/img/party/2023/image2.jpeg)
+![](https://www.lauristonrunners.club/img/party/2023/IMG_2244.jpg)
+![](https://www.lauristonrunners.club/img/party/2023/IMG_2245.jpg)
+![](https://www.lauristonrunners.club/img/party/2023/IMG_2253.jpg)
+![](https://www.lauristonrunners.club/img/party/2023/IMG_2255.jpg)
+![](https://www.lauristonrunners.club/img/party/2023/IMG_2257.jpg)
+![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image003.jpg)
+![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image004.jpg)
+![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image005.jpg)
+![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image006.jpg)
+![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image007.jpg)
+![](https://www.lauristonrunners.club/img/party/2023/thumbnail_image001.jpg)

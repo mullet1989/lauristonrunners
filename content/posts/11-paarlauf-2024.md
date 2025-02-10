@@ -2,7 +2,7 @@
 title: "Paarlauf 2024"
 date: 2025-01-02T20:13:16-05:00
 draft: false
-featured_image: "/img/paarlauf/2023/paarlauf-2024_2.jpg"
+featured_image: "/img/paarlauf/2024/paarlauf-2024_2.jpg"
 ---
 
 Weather: Dry, overcast, no wind and 12C

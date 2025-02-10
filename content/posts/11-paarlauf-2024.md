@@ -2,7 +2,7 @@
 title: "Paarlauf 2024"
 date: 2025-01-02T20:13:16-05:00
 draft: false
-featured_image: "/img/paarlauf/2023/paarlauf-2023_7.jpg"
+featured_image: "/img/paarlauf/2023/paarlauf-2024_2.jpg"
 ---
 
 Weather: Dry, overcast, no wind and 12C
@@ -13,7 +13,6 @@ Dennis Williams, Eric Blackmore, Dave Clarke, Mike Fuller, Mick Hanahoe, Ian Ish
 Please find the results [here](https://www.lauristonrunners.club/paarlauf/).
 
 ![](https://www.lauristonrunners.club/img/paarlauf/2024/paarlauf-2024_1.jpg)
-![](https://www.lauristonrunners.club/img/paarlauf/2024/paarlauf-2024_2.jpg)
 ![](https://www.lauristonrunners.club/img/paarlauf/2024/paarlauf-2024_3.jpg)
 ![](https://www.lauristonrunners.club/img/paarlauf/2024/paarlauf-2024_4.jpg)
 ![](https://www.lauristonrunners.club/img/paarlauf/2024/paarlauf-2024_5.jpg)

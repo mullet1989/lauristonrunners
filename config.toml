@@ -65,9 +65,7 @@ theme = "ananke"
   name = 'Contact'
   url = '/contact/'
   weight = -101
-# [[menu.main]]
-#  parent = "paarlauf"
-#  identifier = '2021'
-#  name = '2021'
-#  url = '/paarlauf/2021/'
-#  weight = 1
+[[menu.main]]
+  name = 'Members'
+  url = 'https://webcollect.org.uk/lauriston'
+  weight = -100

@@ -30,9 +30,9 @@ for their first-claim club.
 
 The Club hosts an annual garden party on the first Saturday in June for members and their guests.
 
-[Download Rules](/docs/rules_sep22.pdf)
+[Download Rules](/docs/Lauriston_Rules_WebCollect.pdf)
 
-[Download Privacy statement](/docs/Lauriston_Rules_WebCollect.pdf)
+[Download Privacy statement](/docs/Lauriston_Privacy_statement_WebCollect.pdf)
 
 
 

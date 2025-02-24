@@ -32,7 +32,7 @@ The Club hosts an annual garden party on the first Saturday in June for members 
 
 [Download Rules](/docs/rules_sep22.pdf)
 
-[Download Privacy Policy](/docs/Lauriston_Privacy_statement_WebCollect.pdf)
+[Download Privacy statement](/docs/Lauriston_Rules_WebCollect.pdf)
 
 
 

@@ -5,7 +5,7 @@ draft: false
 featured_image: "/img/party/2025/IMG-20250608-WA0026.jpg"
 ---
 
-Some of the club's members and guests enjoying the 2024 annual party.
+Some of the club's members and guests enjoying the 2025 annual party.
 
 ![](https://www.lauristonrunners.club/img/party/2025/IMG-20250608-WA0000.jpg)
 ![](https://www.lauristonrunners.club/img/party/2025/IMG-20250608-WA0001.jpg)

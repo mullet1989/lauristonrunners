@@ -11,4 +11,4 @@ Here is Dave (long-time Lauriston member), the fastest woman (U17 Isabella Harri
 
 See [Dave Clarke mile results]([https://data.opentrack.run/en-gb/x/2025/GBR/dc1mile25/])
 
-![](https://www.lauristonrunners.club/img/dave-clarke-mile-winners.jpg)
+![](https://www.lauristonrunners.club/img/dave-clarke-mile-winners.jpeg)

@@ -1,6 +1,6 @@
 ---
 title: "Dave Clarke Mile 2025"
-date: 2025-06-01T20:13:16-05:00
+date: 2025-08-13T20:13:16-05:00
 draft: false
 featured_image: "/img/party/2025/IMG-20250608-WA0026.jpg"
 ---

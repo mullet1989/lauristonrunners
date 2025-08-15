@@ -9,6 +9,6 @@ This year Lauriston Runners Club sponsored the Dave Clarke Mile Night at Wimbled
 
 Here is Dave (long-time Lauriston member), the fastest woman (U17 Isabella Harrison, Hercules Wimbledon), fastest man (Jeremy Dempsey, Shaftesbury Barnet Harriers) and Lauriston Secretary, David Beard. 
 
-See [Dave Clarke mile results]([https://data.opentrack.run/en-gb/x/2025/GBR/dc1mile25/])
+See [Dave Clarke mile results](https://data.opentrack.run/en-gb/x/2025/GBR/dc1mile25/)
 
 ![](https://www.lauristonrunners.club/img/dave-clarke-mile-winners.jpeg)

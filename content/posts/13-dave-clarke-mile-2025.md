@@ -2,7 +2,7 @@
 title: "Dave Clarke Mile 2025"
 date: 2025-08-13T20:13:16-05:00
 draft: false
-featured_image: "/img/dave-clarke-mile.jpg"
+featured_image: "/img/dave-clarke-mile-race-pic.jpg"
 ---
 
 This year Lauriston Runners Club sponsored the Dave Clarke Mile Night at Wimbledon Park on 23rd July by providing the prizes for the fastest man and woman. 

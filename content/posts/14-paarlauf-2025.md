@@ -1,5 +1,5 @@
 ---
-title: "Paarlauf 2026"
+title: "Paarlauf 2025"
 date: 2026-01-12T20:13:16-05:00
 draft: false
 ---

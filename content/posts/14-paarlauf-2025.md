@@ -1,5 +1,5 @@
 ---
-title: "Paarlauf 2025"
+title: "Paarlauf 2025 – the last ever event"
 date: 2026-01-12T20:13:16-05:00
 draft: false
 featured_image: "/img/paarlauf/2025/paarlauf-2025_08.jpeg"

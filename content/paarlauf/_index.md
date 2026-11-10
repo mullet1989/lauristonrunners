@@ -10,7 +10,7 @@ The Paarlauf (paired run) became popular in Germany shortly after the Second Wor
 Over the following years the 30-minute Paarlauf became more and more popular, with runners travelling long distances to take part.  There was a feeling within the Club that the event had become too competitive and that the original intention of the race had been forgotten.  The Club therefore decided in 1966 that, in future, teams should consist of pairs comprising an “A” runner and a “B” runner, now decided upon by the organisers shortly before the 11a.m. start time.  
 (The event is for those aged 15 and over.)
 
-For the first time since 1954 the 2020 event had to be cancelled owing to the Covid restrictions in force at the time.
+For the first time since 1954 the 2020 event had to be cancelled owing to the Covid restrictions in force at the time. The last ever event took place in 2025.
 
 If you have memories of the Paarlauf that you would like to share, please contact webmaster@lauristonrunners.club
 
